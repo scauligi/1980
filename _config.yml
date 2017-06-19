@@ -118,3 +118,5 @@ markdown_ext: "mkdown,mkdn,mkd,md"
 
 # Needed for Travis
 exclude: [vendor]
+
+theme: jekyll-theme-minimal
